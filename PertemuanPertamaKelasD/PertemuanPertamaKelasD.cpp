@@ -24,6 +24,8 @@ int main()
 	int Panjang, Lebar, Luas;
 	cout << "Masukkan Panjangnya=";
 	cin >> Panjang;
+	cout << "Masukkan Lebarnya=";
+	cin >> Lebar;
 
 	
 
